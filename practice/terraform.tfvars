@@ -1,1 +1,1 @@
-bucket_name = "anjy"
+bucket_name = "anjy1"

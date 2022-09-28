@@ -11,7 +11,7 @@ on:
 
 env:
   aws-region: us-east-1
-  aws_s3_bucket: my-s3-buck
+  aws_s3_bucket: anjali-s3-bucket
   tfstate_file: terraform.tfstate
   
 jobs:
